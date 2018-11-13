@@ -1,2 +1,2 @@
 # awesome-excel-to-json
-A util transformming excel to json based on js-xlsx
+A util transforming excel to json based on js-xlsx
